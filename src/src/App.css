@@ -1,0 +1,14 @@
+@import '~antd/dist/antd.css';
+
+.ant-select-multiple .ant-select-selection-item {
+  height: 27px;
+}
+
+.remove-task-button {
+  border-radius: 10px;
+  font-size: 8px;
+}
+.remove-task-button:hover {
+  font-weight: bolder;
+  background-color: yellowgreen;
+}
