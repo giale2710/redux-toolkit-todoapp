@@ -3,3 +3,16 @@
 .ant-select-multiple .ant-select-selection-item {
   height: 27px;
 }
+
+.todolist-delete-task-button {
+  border: 1px solid #000;
+  border-radius: 2px;
+  font-size: 10px;
+  width: 8px;
+}
+
+.todolist-delete-task-button:hover {
+  border: none;
+  background-color: red;
+  font-weight: bolder;
+}
